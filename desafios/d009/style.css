@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+div {
+    width: 406px;
+    margin: auto;
+}

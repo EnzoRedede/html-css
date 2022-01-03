@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body{
+    background-color: #DBC084;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#principal{
+    color: #42361B;
+    padding: 5px;
+    text-align: center;
+
+}
+.assunto{
+    text-align: center;
+}
+.basico{
+color: rgb(0, 128, 0);
+}
+.intermediario{
+color: rgb(223, 223, 0);
+}
+.avancado{
+    color: rgb(187, 0, 0);
+}
+#main01{
+    background-color: #8F7847;
+    width: 900px;
+    margin: auto;
+    border-radius: 10px;
+}
+#main02{
+    background-color: #DBC084;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 5px;
+}
